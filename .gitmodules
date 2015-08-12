@@ -1,0 +1,15 @@
+[submodule "Introduction-to-OOP/practice/lilit-dogoldiev-efomova"]
+	path = Introduction-to-OOP/practice/lilit-dogoldiev-efomova
+	url = git@github.com:BabayanLilit/worksolutions-seminar-oop-1.git
+[submodule "Introduction-to-OOP/practice/panasevich-pomiluyko"]
+	path = Introduction-to-OOP/practice/panasevich-pomiluyko
+	url = git@github.com:elfelrandcor/worksolutions-seminar-oop-1.git
+[submodule "Introduction-to-OOP/practice/grishin-sabirov"]
+	path = Introduction-to-OOP/practice/grishin-sabirov
+	url = git@github.com:sabirovruslan/example-seminar.git
+[submodule "Introduction-to-OOP/practice/smotrov"]
+	path = Introduction-to-OOP/practice/smotrov
+	url = git@github.com:DsXack/worksolutions-seminar-oop-1.git
+[submodule "Introduction-to-OOP/practice/afanasev-papka"]
+	path = Introduction-to-OOP/practice/afanasev-papka
+	url = git@github.com:bupyc9/worksolutions-seminar-oop-1.git
