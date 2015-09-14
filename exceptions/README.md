@@ -13,3 +13,10 @@
 6. Документируйте исключения
 
 ## Практическое задание
+
+### Используемые источники
+- http://php.net/manual/ru/language.exceptions.php
+- http://habrahabr.ru/post/100137/
+- https://gist.github.com/codedokode/65d43ca5ac95c762bc1a
+
+
