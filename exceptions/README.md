@@ -70,6 +70,8 @@ public function validate($inn) {
 ## Практическое задание
 Реализовать патерн наблюдатель, с использованием выброса/обработки исключений
 
+- https://github.com/sabirovruslan/example-seminar/blob/master/day_6/index.php
+
 ### Используемые источники
 - http://php.net/manual/ru/language.exceptions.php
 - http://habrahabr.ru/post/100137/
